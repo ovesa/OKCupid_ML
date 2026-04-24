@@ -57,7 +57,6 @@ def set_plot_style():
         "font.sans-serif": ["DejaVu Sans"],
         
         # Grid
-        "axes.grid": True,
         "grid.alpha": 0.25,
         "grid.linestyle": "--"
     })
