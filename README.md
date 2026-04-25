@@ -17,7 +17,7 @@ The short answer is: not really. But the process of figuring that out taught me 
 - **31 columns** including demographics, lifestyle choices, and 10 open ended essay responses
 - Target variable: `sign` (missing for 18.4% of users)
 
-The dataset is not included in this repo. You can find it on Kaggle by searching for "OKCupid Profiles".
+The dataset is not included in this repo. I obtained it from codeacademy.
 
 ---
 
